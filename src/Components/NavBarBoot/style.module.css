@@ -1,0 +1,8 @@
+.link {
+  text-decoration: none;
+  color: #fff;
+}
+.navigation {
+  z-index: 10;
+  margin-bottom: 3rem;
+}
