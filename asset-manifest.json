@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Bad-Bank/static/css/main.86399c36.css",
+    "main.js": "/Bad-Bank/static/js/main.7b9efc8b.js",
+    "static/media/heroImage.jpg": "/Bad-Bank/static/media/heroImage.4ff5580d3ca3f3dc1fa7.jpg",
+    "static/media/withdraw.jpg": "/Bad-Bank/static/media/withdraw.244251c0bcaafc72a86f.jpg",
+    "static/media/deposit.jpg": "/Bad-Bank/static/media/deposit.89d5e6b768f0074763bd.jpg",
+    "index.html": "/Bad-Bank/index.html",
+    "main.86399c36.css.map": "/Bad-Bank/static/css/main.86399c36.css.map",
+    "main.7b9efc8b.js.map": "/Bad-Bank/static/js/main.7b9efc8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86399c36.css",
+    "static/js/main.7b9efc8b.js"
+  ]
+}
