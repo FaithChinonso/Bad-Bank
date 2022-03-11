@@ -14,9 +14,11 @@ const Deposit = () => {
   const [amount, setAmount] = useState();
   const amountHandler = (e) => {
     setAmount(e.target.value);
-    console.log(amount);
   };
   const depositHandler = () => {
+    if (amount < 1) {
+      return;
+    }
     dispatch(accountActions.deposit({ amount }));
   };
   const closeLottieHandler = () => {
